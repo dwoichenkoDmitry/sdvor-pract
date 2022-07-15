@@ -1,0 +1,20 @@
+.container {
+    width: 700px;
+    height: 400px;
+    background-color: #FFFFFF;
+    overflow: auto;
+    position: absolute;
+    border-radius: 10px;
+    top: 80px;
+    right: 350px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.line {
+    border: 1px black solid;
+    width: 98%;
+}
